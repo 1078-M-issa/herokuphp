@@ -1,0 +1,11 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [{
+        "name": "Muhd Issa",
+        "email": "21001078@myrp.edu.sg"
+    }],
+    "require": {}
+}
